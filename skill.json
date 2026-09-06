@@ -1,0 +1,15 @@
+{
+  "name": "genpark-hierarchical-task-network-htn-planner-skill",
+  "version": "1.0.0",
+  "description": "Hierarchical Task Network (HTN) decomposition engine expanding compound goals into primitive executable actions.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "htn-planner",
+    "task-decomposition",
+    "hierarchical-planning",
+    "action-sequencing",
+    "agentic-ai"
+  ]
+}
